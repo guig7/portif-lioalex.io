@@ -199,7 +199,7 @@ ul {
 }
 
 .img-wrapper:hover {
-     transform: translateY(-5px);
+    transform: translateY(-5px);
 }
 
 .img-wrapper:hover img {
@@ -407,6 +407,11 @@ ul {
     color: var(--accent-color);
 }
 
+.whatsapp-btn:hover {
+    border-color: #25D366;
+    color: #25D366;
+}
+
 .footer {
     text-align: center;
     padding: 20px;
@@ -447,7 +452,7 @@ ul {
         text-align: center;
         padding-top: 100px;
     }
-    
+
     .hero-content {
         margin-top: 50px;
     }
@@ -461,7 +466,7 @@ ul {
     .name {
         font-size: 3rem;
     }
-    
+
     .role {
         font-size: 1.5rem;
     }
